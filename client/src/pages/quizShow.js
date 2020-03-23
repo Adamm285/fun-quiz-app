@@ -1,11 +1,10 @@
 import React, { Component } from 'react';
-import ReactDOM from "react-dom";
-import "./assets/style.css";
-import quizService from "./quizService"
-import QuestionBox from "./components/QuestionBox";
-import Result from "./components/Result";
+import "../assets/style.css";
+import quizService from "../quizService/index"
+import QuestionBox from "../components/QuestionBox";
+import Result from "../components/Result";
 
-class SubQuiz extends Component {
+export default class SubQuiz extends Component {
     state = {
         questionBank: [],
         score: 0,
@@ -62,5 +61,3 @@ class SubQuiz extends Component {
         );
     }
 }
-
-ReactDOM.render(<SubQuiz />, document.getElementById("root"));

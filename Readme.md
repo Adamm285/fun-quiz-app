@@ -1,4 +1,4 @@
-# Read Me Template
+# Fun Quiz App
 
 ![Project Image](https://image.freepik.com/free-vector/quiz-neon-sign_1262-19629.jpg)
 
@@ -26,7 +26,7 @@ Fun weekend project using React and Hooks API hosted with GitHub Pages
 - Hooks API
 - Github Pages
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#fun-quiz-app)
 
 ---
 
@@ -41,7 +41,7 @@ No Need to install anything just follow this link. [here]("https://adamm285.gith
 ```html
     <p>dummy code</p>
 ```
-[Back To The Top](#read-me-template)
+[Back To The Top](#fun-quiz-app)
 
 ---
 
@@ -50,7 +50,7 @@ No Need to install anything just follow this link. [here]("https://adamm285.gith
 - KnowledgeHut Video Tutorial [here]("https://www.youtube.com/watch?v=aq-fCtg_gG4")
 - Hooks API [here]("https://reactjs.org/docs/hooks-reference.html")
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#fun-quiz-app)
 
 ---
 
@@ -78,7 +78,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#fun-quiz-app)
 
 ---
 
